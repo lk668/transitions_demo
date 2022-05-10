@@ -16,6 +16,9 @@ pip3 install -r requirements.txt
 ubuntu机器执行如下命令
 
 sudo apt-get install graphviz graphviz-dev 
+
+Centos机器执行如下命令
+sudo yum install graphviz graphviz-devel
 ```
 
 ## 2. 测试
